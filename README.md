@@ -17,7 +17,7 @@ Setiap nilai harus dicetak pada baris terpisah dengan 6 angka di belakang desima
 </h1>
 
 Berikut adalah penyelesaian dari tugas tersebut dalam bahasa pemrograman C++
-
+```C++
 #include <bits/stdc++.h>
 
 using namespace std;
@@ -119,3 +119,4 @@ vector<string> split(const string &str) {
     tokens.push_back(str.substr(start));
     return tokens;
 }
+```

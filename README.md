@@ -13,7 +13,10 @@ Setiap nilai harus dicetak pada baris terpisah dengan 6 angka di belakang desima
 <h1>
   Jawaban
 </h1>
- #include <bits/stdc++.h>
+
+Berikut adalah penyelesaian dari tugas tersebut dalam bahasa pemrograman C++
+
+#include <bits/stdc++.h>
 
 using namespace std;
 
